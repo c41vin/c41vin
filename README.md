@@ -1,4 +1,4 @@
-### Hi there 👋,I'm zhe.
+### Hi there 👋,I'm c41vin.
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
@@ -8,7 +8,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=c41vin&show_icons=true&theme=transparent)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/c41vin/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+You are my ![Visitor Count](https://profile-counter.glitch.me/c41vin/count.svg) visitor,Thank You!🍓🍓
 
 ### My Skill Set
 
